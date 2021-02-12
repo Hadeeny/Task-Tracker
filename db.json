@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Have Breakfast",
+      "date": "5th, march 2020",
+      "time": "10:00am",
+      "reminder": "true"
+    },
+    {
+      "text": "Go on a date",
+      "date": "2021-02-11",
+      "reminder": false,
+      "time": "23:11",
+      "id": 2
+    }
+  ]
+}
